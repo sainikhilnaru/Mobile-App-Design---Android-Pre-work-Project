@@ -8,7 +8,8 @@
 
 <img src="C:\Users\Sai Nikhil Naru\Desktop\AppWalkthrough.gif" width=200><br>
 
-![](C:\Users\Sai Nikhil Naru\Desktop\AppWalkthrough.gif)
+![](AppWalkthrough.gif)
+
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
